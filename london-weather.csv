@@ -1,4 +1,4 @@
-city,datet,tempmax,tempmin,temp,feelslikemax,feelslikemin,feelslike,dew,humidity,precip,precipprob,precipcover,snow,snowdepth,windgust,windspeed,winddir,pressure,cloudcover,visibility,solarradiation,solarenergy,uvindex,conditions
+city,date,tempmax,tempmin,temp,feelslikemax,feelslikemin,feelslike,dew,humidity,precip,precipprob,precipcover,snow,snowdepth,windgust,windspeed,winddir,pressure,cloudcover,visibility,solarradiation,solarenergy,uvindex,conditions
 London,2021-09-01,18.1,14.6,16.3,18.1,14.6,16.3,11.7,74.4,0,0,0,0,0,0,17.2,36,1030.7,95.5,25.6,62.2,5.3,2,"Overcast"
 London,2021-09-02,19.6,15.5,17,19.6,15.5,17,11.8,72.2,0,0,0,0,0,0,21.1,48.5,1027.8,90.4,20.9,78,6.6,4,"Overcast"
 London,2021-09-03,21.1,14.6,17.7,21.1,14.6,17.7,12.8,73.2,0,0,0,0,0,0,15.1,66.7,1021.9,72.4,15.1,72.6,6.3,3,"Partially cloudy"
