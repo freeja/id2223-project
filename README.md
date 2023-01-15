@@ -18,4 +18,4 @@ Historic weather data was collected from https://www.visualcrossing.com/ while t
 
 ## Hugging Face UI
 
-The finished Hugging Face UI can be accessed here (enter a randon input): https://huggingface.co/spaces/freeja/Air-Quality
+The finished Hugging Face UI can be accessed here (enter a random input): https://huggingface.co/spaces/freeja/Air-Quality
