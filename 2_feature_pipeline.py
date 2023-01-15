@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import datetime
-from functions1 import *
+from functions import *
 
 date_today = datetime.now().strftime("%Y-%m-%d")
 
