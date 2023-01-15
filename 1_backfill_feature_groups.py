@@ -1,5 +1,5 @@
 import pandas as pd
-from functions1 import *
+from functions import *
 
 df_air_quality = pd.read_csv('https://raw.githubusercontent.com/freeja/id2223-project/master/london-air-quality.csv')
 print(df_air_quality.head())
